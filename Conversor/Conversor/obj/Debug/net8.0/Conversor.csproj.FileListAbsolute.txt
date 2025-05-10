@@ -1,0 +1,14 @@
+C:\Projetos\Conversor\Conversor\bin\Debug\net8.0\Conversor.exe
+C:\Projetos\Conversor\Conversor\bin\Debug\net8.0\Conversor.deps.json
+C:\Projetos\Conversor\Conversor\bin\Debug\net8.0\Conversor.runtimeconfig.json
+C:\Projetos\Conversor\Conversor\bin\Debug\net8.0\Conversor.dll
+C:\Projetos\Conversor\Conversor\bin\Debug\net8.0\Conversor.pdb
+C:\Projetos\Conversor\Conversor\obj\Debug\net8.0\Conversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Conversor\Conversor\obj\Debug\net8.0\Conversor.AssemblyInfoInputs.cache
+C:\Projetos\Conversor\Conversor\obj\Debug\net8.0\Conversor.AssemblyInfo.cs
+C:\Projetos\Conversor\Conversor\obj\Debug\net8.0\Conversor.csproj.CoreCompileInputs.cache
+C:\Projetos\Conversor\Conversor\obj\Debug\net8.0\Conversor.dll
+C:\Projetos\Conversor\Conversor\obj\Debug\net8.0\refint\Conversor.dll
+C:\Projetos\Conversor\Conversor\obj\Debug\net8.0\Conversor.pdb
+C:\Projetos\Conversor\Conversor\obj\Debug\net8.0\Conversor.genruntimeconfig.cache
+C:\Projetos\Conversor\Conversor\obj\Debug\net8.0\ref\Conversor.dll
